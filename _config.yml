@@ -1,12 +1,12 @@
 # Site
-title:              Elwin's Site
-bio:                'Insert Bio'
+title:              Elwin's Eurhythmic Enterprises
+bio:                'Rarely Reasonable'
 description: > # this means to ignore newlines until "baseurl:"
-  This is a jekyll-built static page. This is a personal page for Elwin Martin. 
+  This is a jekyll-built static page; it is a personal page for Elwin Martin. 
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/my_mug.jpg'
+background:         'assets/img/carloyuen_hk_night.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url: "http://www.elwinmartin.com" # the base hostname & protocol for your site, e.g. http://example.com
