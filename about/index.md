@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2017-07-21
+title: About This Page
+tags: [about, Jekyll, Me]
+date: 2017-07-29
 comments: false
 ---
     
@@ -22,4 +22,3 @@ Still working on that, sorry.
 I play in a band sometimes
 
 {% include soundcloud.html %}
-      
