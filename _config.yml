@@ -17,7 +17,7 @@ title: Elwin's Site
 email: elwinmartin@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is a jekyll-built static page. This is a personal page for Elwin Martin. 
-baseurl: "/myblog" # the subpath of your site, e.g. /myblog TEMPORARY
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://www.elwinmartin.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  elwinmartin
