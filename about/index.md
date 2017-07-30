@@ -21,5 +21,5 @@ Still working on that, sorry.
 
 I play in a band sometimes
 
-{% include mycomponent.html %}
+{% include soundcloud.html %}
       
