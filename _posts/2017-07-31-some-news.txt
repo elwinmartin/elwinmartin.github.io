@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Minor News Update!"
+date:   2017-07-31 00:20:00 -0700
+categories: news 
+---
+
+Couple quick updates for everyone :D
+
+# 1. <a href='https://www.facebook.com/events/1718729181470662'>San Diego Game Jam</a>
+
+It looks like I'm going to be participating in a Game Jam with some friends in a few weeks!
+
+Nobody on my team has any real game development experience, but we are hoping to scope our some simple platforms in the next few weeks.
+
+# 2. <a href='https://github.com/elwinmartin/Live-Let-Drive'>Live & Let Drive<a>  
+
+So I am looking for a new apartment and one of the biggest concerns I have is my commute. Short of saving me quite a lot in rent, I would be hard pressed to make any move that increases the time it takes me to get to work and back. Unfortunately, distance on a map is a bad surrogate for actual time spent in a car in many cities (I'm looking at you ATL). 
+
+What I really want is to look at apartments that are:
+* The correct number of bedrooms
+* The correct number of bathrooms
+* Have parking
+* Within my price range
+* Within a reasonable commute time
+
+Everything except for the last item can be done by a simple listing website like Craglist. This isn't really too much to ask, though; fortunately, map softwares have public APIs!
+
+My short term project for the moment is going to be getting a version of this functionality built out in Python before I have to pick a place to move. Since the terms of my lease specified today as my last day, we'll see if that happens (full disclosure: my landlord hasn't even called to ask if we're moving out, haha, so we're probably fine). 
+
