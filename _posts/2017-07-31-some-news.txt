@@ -14,7 +14,7 @@ It looks like I'm going to be participating in a Game Jam with some friends in a
 
 Nobody on my team has any real game development experience, but we are hoping to scope our some simple platforms in the next few weeks.
 
-<h1> 2. <a href='https://github.com/elwinmartin/Live-Let-Drive'>Live & Let Drive<a> </h1> 
+<h1> 2. <a href='https://github.com/elwinmartin/Live-Let-Drive'>Live & Let Drive</a> </h1> 
 
 
 So I am looking for a new apartment and one of the biggest concerns I have is my commute. Short of saving me quite a lot in rent, I would be hard pressed to make any move that increases the time it takes me to get to work and back. Unfortunately, distance on a map is a bad surrogate for actual time spent in a car in many cities (I'm looking at you ATL). 
