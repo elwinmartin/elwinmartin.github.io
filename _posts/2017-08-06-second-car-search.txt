@@ -16,48 +16,57 @@ Repairs, however, have been needed at random intervals and with great expense (u
 The current suite of known problems include:
 
 1. An SRS light (faulty airbag code)
+
 2. Flashing CEL Under Load (cylinder 4 misfires at idle)
+
 3. OBD 2 (O2 sensor not found)
+
 4. Visual Inspection (Aftermarket exhaust not CARB compliant)
+
 5. Cosmetic Damage / Age (minor dimples, stain carpeting, etc.)
+
 6. Alignment and Axles (CV boots torn, alignment off)
+
 7. Tires & Brakes (Okay, but just okay)
+
 8. Suspension / Stance (Not a 'problem', strictly speaking)
 
 
 The most recent issue (#2), is the most troubling as I cannot comfortably drive highway speeds without fear of spewing gasoline into my cat of breaking something in my engine. My roommate has a working vehicle, so for the time being I will be okay, but I would prefer to have transportation as soon as possible. I'm going to try to break down this and the other fixed to give a sense of what we're looking at for total car cost before I can either sell it or part it out.
 
-## 1. SRS Light
 
-## 2. Flashing CEL
+## 1. SRS Light ##
+
+## 2. Flashing CEL ##
 
 
-## 3. OBD 2 (O2 sensor not found)
+## 3. OBD 2 (O2 sensor not found) ##
 
-## 4. Visual Inspection
+## 4. Visual Inspection ##
+
 
 To pass smog in California
 
 
-## 5. Cosmetic Damage / Age 
+## 5. Cosmetic Damage / Age ##
 
 The first thing this car needs is a professional detailing. I am not a used car expert, but I am fairly confident that it would lose hundreds of dollars off its functional worth in its current state. The biggest issue is general car cleanliness caused by my laziness followed by my brokeness. For a long stretch of time I was "just a weekend with free time" away from getting my car properly vacuumed. Similarly, I was "just a month" away from having the financial stability to spend $100-200 on a professional cleaning without risking my ability to buy groceries. I am pretty sure I have *finally* reached a point where both of these excuses are just that, excuses. That said, the detailing would cost some real money.
 
 
-#### Cost Estimate:
+#### Cost Estimate: ####
 
 | Sell  | Part  | Keep   |
 |---|---|---|
 | 150  |  0 |  150 |
 
 
-## 6. Alignment and Axles 
+## 6. Alignment and Axles ##
 
 
 
-## 7. Tires & Brakes
+## 7. Tires & Brakes ##
 
-#### Cost Estimate:
+#### Cost Estimate: ####
 
 | Sell  | Part  | Keep   |
 |---|---|---|
@@ -65,7 +74,7 @@ The first thing this car needs is a professional detailing. I am not a used car 
 
 
 
-## 8. Suspension / Stance
+## 8. Suspension / Stance ##
 
 Somewhere in the back of my mind, the cost of fixing up and 
 
