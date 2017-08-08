@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "My Car Shopping List!"
+date:   2017-08-06 12:20:00 -0700
+categories: cars
+---
+
+Possibly breakdowns:
+
+Daily Driver
+
+Euro
+Asian
+American
+
+##New Leased ##
+
+## Used Financed ##
+
+Weekend Cars:
+
+1. Miata, Miata, Miata
+
+2. C4 Corvette
+
+3. Nissan 240SX
+
+4. BMW Z3 
+
+5. Honda S2000
+
+6. Toyota MR2
+
+7. Lexus IS300
