@@ -5,7 +5,7 @@ date:   2017-08-06 12:20:00 -0700
 categories: news cars
 ---
 
-Just about three years ago I bought my first car. My 2007 VW GTI has been a bittersweet combination of joy and pain for me and I think I am approaching my limits as it reaches its bitter end.
+Just about three years ago I bought my first car. My 2007 VW GTI has been a bittersweet mixture of joy and pain and I am approaching my limits as it reaches its bitter end.
 
 
 There have been some ups and downs, but mostly downs at this point. While it has been the most fun of any car I have driven -- n.b. my limited experience -- it has had more problems than any car I can remember friends or family owning (except my brother's A3, which was almost the same car). I knew going in that this car was going to involve some repair costs. The reliability was often rated, at best, a 3.5/5 for this generation GTI. Through a combination of money down, decent negotiation, and public fear of older VWs I was able to sustain car payments of around ~$150 a month. 
@@ -41,45 +41,122 @@ The most recent issue (#2), is the most troubling as I cannot comfortably drive 
 
 ## 1. SRS Light ##
 
+
+
+| Sell  | Part  | Keep   |
+|-------|-------|--------|
+| 0-100   |  0    | 0-100  |
+
+
 ## 2. Flashing CEL ##
+
+This got taken care of already and was (partially) my fault, but I am going to note down a few things regardless.
+
+There is a gasket leaking oil that has not been properly fixed because "it would be expensive". I think in order to responsibly sell my engine, I would want to replace this or make it very clear this needs to be done. In the mean time I had the burnt out spark plugs replaced with higher end ones. 
+
+I was under the impression that cheap spark plugs were not much of an issue, but both the tuning shop guys and the local shop guys said to always buy what's in the car or nicer. I was not aware that there could be quality differences in a part so ridiculously simple. That said, it's a small price to pay for peace of mind.
+
+
+| Sell  | Part  | Keep   |
+|-------|-------|--------|
+| 120   |  ?    | 120  |
+
+
 
 
 ## 3. OBD 2 (O2 sensor not found) ##
 
+The aftermarket exhaust I purchased does not 
+
+
+| Sell  | Part  | Keep   |
+|-------|-------|--------|
+|  120   |  0    | 0?  |
+
+
 ## 4. Visual Inspection ##
 
 
-To pass smog in California
+A car must pass a visual inspection to pass emissions testing in California. This is kind of silly, to be honest, and I would prefer a legitimate tail pipe test, but I do not really have a say in the matter.
+
+My car's stock exhaust will probably need to be popped back on. Fortunately, I have kept it for this reason. Unfortunately, that's quite a bit of money for a change I don't really care about.
+
+The exhaust I have is great, but to get it off and the stock one on is probably about 150 dollars. I could possibly rent a stand and get a friend to help me do this... we'll see. 
+
+To keep the car, I would plan on popping the free flowing exhaust back on immediately after which doubles the total cost.
+
+| Sell  | Part  | Keep   |
+|-------|-------|--------|
+|  150   |  0    | 300  |
+
 
 
 ## 5. Cosmetic Damage / Age ##
 
-The first thing this car needs is a professional detailing. I am not a used car expert, but I am fairly confident that it would lose hundreds of dollars off its functional worth in its current state. The biggest issue is general car cleanliness caused by my laziness followed by my brokeness. For a long stretch of time I was "just a weekend with free time" away from getting my car properly vacuumed. Similarly, I was "just a month" away from having the financial stability to spend $100-200 on a professional cleaning without risking my ability to buy groceries. I am pretty sure I have *finally* reached a point where both of these excuses are just that, excuses. That said, the detailing would cost some real money.
+The first thing this car needs is a professional detailing. 
+
+I am no used car expert, but I am confident that it would lose hundreds of dollars off its functional worth in its current state. The biggest issue is general cleanliness -- caused by my laziness followed by my brokeness. For a long stretch of time I was "just a weekend with free time" away from getting my car properly vacuumed. Similarly, I was "just a month" away from having the financial stability to spend $100-$200 on a professional cleaning without risking my ability to buy groceries. I am pretty sure I have *finally* reached a point where both of these excuses are just that, excuses. That said, the detailing would cost some real money.
 
 
 #### Cost Estimate: ####
 
 | Sell  | Part  | Keep   |
-|---|---|---|
-| 150  |  0 |  150 |
+|------|--------|-------|
+| 150   |  0    |  150 |
 
 
 ## 6. Alignment and Axles ##
+
+This is going to be necessary to drive the car hard. I could sell it without doing this, but there's no point in keep it long term if I don't take care of this.
+
+A friend recommended a place that would do my alignment for $100. I may need to swap out the front axles from the damage that may have built up from keeping torn CV boots...but I have zero issues with turning or noise, so hopefully not!
+
+I estimated an extra $200 in the case that I need to order a pair of front axles for replacement. They're a reasonably cheap part, so I'm not too worried, but they need to be accounted for.
+
+
+#### Cost Estimate: ####
+
+| Sell  | Part  | Keep   |
+|-------|-------|-------|
+| 0   |  0    |  100-300 |
 
 
 
 ## 7. Tires & Brakes ##
 
+I don't know if I *need* anything for my brakes except replacement pads. These I would need to shop around for a bit, but I am thinking it'll be $150-250 for decent pads. 
+
+I'll need new tires in the foreseeable future, but not right now. I would like to drop $500-$600 or so on quality summer tires.
+
+
 #### Cost Estimate: ####
 
-| Sell  | Part  | Keep   |
-|---|---|---|
-| 150  |  0 | 600 |
+| Sell | Part | Keep |
+|----|----|-----|
+| 0  |  0 | 650-850 |
 
 
 
 ## 8. Suspension / Stance ##
 
-Somewhere in the back of my mind, the cost of fixing up and 
+Somewhere in the back of my mind, the cost of fixing everything up and making my car autocrossable makes sense. 
 
-As my income climbs, so too do my student debt applications
+A not-too-terrible suspension kit is going to run me about $250 if I round up and include decent shipping time. I'm not sure how much labor would be for this, but I would maybe try to pair it with the alignment so it doesn't double up on cost there.
+
+I am hoping $400 is a reasonable estimate here.
+
+# Totalling Up # 
+
+So across each category I am looking at around:
+
+Where I have added in some wiggle room for selling of about $500, just to be safe.
+
+| Sell  | Part   | Keep    |
+|-------|--------|---------|
+|  ~1100 |  ~250  |  ~1600  |
+
+
+The value of my car for resale is anywhere from $2000 - $4000 right now. VWs are not known for their reliability and this really hurts the value of higher mileage vehicles. Consider the fact that I owe just shy of $2000 on the car, I would only maybe come out just barely ahead if I was trying to sell the car properly. 
+
+I'm not sure what I can get for parting it out yet. My intake is CARB legal and retails for ~$250. I think I can sell it for $100 since it's been recently cleaned and I have the cleaning materials ready (it is an oiled filter). My exhaust retails for around $800 and comes with a catyltic converter. It doesn't have tooo many miles on it since the install had to wait for my finances to allow it. I think I can maybe ask $400-500 for it as is. My wheels are pretty much the lighest affordable wheels I could find. The black paint is chipped / faded in a few places, so that'll diminish their worth a bit, but they'd be solid for racing. I think I can probably get $200-300 out of the set of 4 given the cosmetic defects. The engine is phenomenal except for the minor leak. I would want to get this fixed before trying to sell it. I don't know if this engine has any real value but I would be ecstatic if it did. 
+
