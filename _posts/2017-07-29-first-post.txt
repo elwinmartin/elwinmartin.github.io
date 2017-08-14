@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "First Post?!?"
+date:   2017-07-29 16:10:00 -0700
+categories: jekyll update
+---
+
+Hi everyone,
+
+I am going to try to  consistently chronicle my hobbies and professional life.
+
+My social media accounts are fragmented and none of them really allows for long form writing. Hopefully this will fix that. 
+
+Content will be explicitly without direct reference to social or political themes where I avoid it.
+
+That said, I cannot guarantee that this site will remain entirely professional - memery may emerge.
+
+Looking forward to getting things rolling and adding content. We will see if I have enough to say to update weekly.
+
+My immediate goal is simply to flesh out the projects page sufficiently that individual posts can refer to them.
+
+Many, many minor edits will sneak in during the first few week as I tweak the templates and default materials to my needs.
+
+Stay tuned!
+
+Best,
+
+Me

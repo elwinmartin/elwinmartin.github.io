@@ -5,20 +5,14 @@ tags: [about, Jekyll, Me]
 date: 2017-07-29
 comments: false
 ---
-    
-<center>Centering tags let you know things are serious business</center>
 
-## What is the page for
-* Showing stuff
-* Being Pretty
+<center>Frequently Askable Questions</center>
 
+## Why does this website exist? 
 
-## Who am I?
+To detail what I have been working on and give me another outlet for less technical work.
 
-Still working on that, sorry.
+## Who is Elwin?
 
-## Music
+I don't plan to write a third person bio section, sorry. I like the functional things in life: functional analysis, functional programming, and functional fitness. 
 
-I play in a band sometimes
-
-{% include soundcloud.html %}

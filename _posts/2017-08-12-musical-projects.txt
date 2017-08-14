@@ -1,0 +1,15 @@
+---
+layout: project
+title:  "Musical Projects"
+date:   2017-08-12 00:10:00 -0700
+categories: project Super Disaster music
+project: true
+---
+
+Hopefully there will be more here in the future, but for now most of the music I play is with Super Disaster.
+
+You can check out some rough mixes of our music if you would like.
+
+{% include soundcloud.html %}
+
+Our first album is in the final staging of mastering right now, so we should have news on this soon!

@@ -1,23 +1,23 @@
 ---
 layout: post
-title:  "Car Problems Draft"
+title:  "My Car Situation"
 date:   2017-08-06 12:20:00 -0700
 categories: news cars
 ---
 
-Just about three years ago I bought my first car. My 2007 VW GTI has been a bittersweet mixture of joy and pain and I am approaching my limits as it reaches its bitter end.
+Just about three years ago I bought my first car. My 2007 VW GTI has given me a mix of sweet and sour emotions and I am looking for replacements as thing winds down to a bitter end.
 
 
-There have been some ups and downs, but mostly downs at this point. While it has been the most fun of any car I have driven -- n.b. my limited experience -- it has had more problems than any car I can remember friends or family owning (except my brother's A3, which was almost the same car). I knew going in that this car was going to involve some repair costs. The reliability was often rated, at best, a 3.5/5 for this generation GTI. Through a combination of money down, decent negotiation, and public fear of older VWs I was able to sustain car payments of around ~$150 a month. 
+There have been some ups and downs, but mostly net downs at this point. While it has been the most fun of any car I have driven -- n.b. my limited experience -- it has had more problems than any car I can remember friends or family owning (except my brother's A3, which was almost the same car). I knew going in that this car was going to involve some repair costs. The reliability was often rated, at best, a 3.5/5 for this generation GTI. Through a combination of money down, decent negotiation, and public fear of older VWs I was able to sustain car payments of around ~$150 a month. 
 
 
-While I have had my share of financial instability, the car payments have remained in-check despite various emergencies, and I do not regret the rate or amount I financed. 
+While I have had my share of financial instability my car payments have remained in-check despite emergencies; I have no regrets about the rate or amount I financed. That's not to say I'm not looking forward to being done with making payments, of course, haha.
 
 
-Repairs, however, have been needed at random intervals and with great expense (up to $1700 in a single repair -- near the total I still owe). They're beginning to take a toll on my bank account and well being. What's worse, I'm not even finished fixing everything wrong.
+Repairs, however, have been needed at random intervals and with great expense (as much as $1700 in a single repair -- near the total I still owe). They're beginning to take a toll on my bank account and well being. What's worse, I'm not even finished fixing everything wrong. With that in mind...
 
 
-The current suite of known problems include:
+The current suite of known problems (serious or otherwise) include:
 
 1. An SRS light (faulty airbag code)
 
@@ -50,7 +50,7 @@ The most recent issue (#2), is the most troubling as I cannot comfortably drive 
 
 ## 2. Flashing CEL ##
 
-This got taken care of already and was (partially) my fault, but I am going to note down a few things regardless.
+Update: This got taken care of already and was (partially) my fault, but I am going make notes regardless.
 
 There is a gasket leaking oil that has not been properly fixed because "it would be expensive". I think in order to responsibly sell my engine, I would want to replace this or make it very clear this needs to be done. In the mean time I had the burnt out spark plugs replaced with higher end ones. 
 
@@ -64,9 +64,9 @@ I was under the impression that cheap spark plugs were not much of an issue, but
 
 
 
-## 3. OBD 2 (O2 sensor not found) ##
+## 3. OBD 2 (O2 sensor N/A) ##
 
-The aftermarket exhaust I purchased does not 
+The aftermarket exhaust I purchased does not appear to have a downstream O2 sensor??? My OBD-II scanner reports N/A, but I'm not sure it should. This prrrrobably needs to be fixed to get an up-to-date emissions test, but I might get a smog pretest just to be sure. I don't know if the original one is hanging out with my stock downpipe or not, either. Oops?  
 
 
 | Sell  | Part  | Keep   |
@@ -107,11 +107,11 @@ I am no used car expert, but I am confident that it would lose hundreds of dolla
 
 ## 6. Alignment and Axles ##
 
-This is going to be necessary to drive the car hard. I could sell it without doing this, but there's no point in keep it long term if I don't take care of this.
+The alignment is a bit off right now, so fixing it will be necessary to drive the car harder. I could definitely sell it without changing anything here, but there's long term if I would want to take care of this.
 
-A friend recommended a place that would do my alignment for $100. I may need to swap out the front axles from the damage that may have built up from keeping torn CV boots...but I have zero issues with turning or noise, so hopefully not!
+A friend recommended a place that does alignments for $100. I would be looking to get the general left-right unbalances squared up and camber my wheels slightly for improved cornering. Unfortunately, I may need to swap out the front axles from accumulated damage via torn CV boots. Zero issues with turning or noise right now, though, so hopefully not!
 
-I estimated an extra $200 in the case that I need to order a pair of front axles for replacement. They're a reasonably cheap part, so I'm not too worried, but they need to be accounted for.
+I estimated an extra $200 in case that I need to order a pair of front axles (there's one per wheel). They're a fairly cheap for how important they are, but they do need to be accounted for.
 
 
 #### Cost Estimate: ####
@@ -124,9 +124,12 @@ I estimated an extra $200 in the case that I need to order a pair of front axles
 
 ## 7. Tires & Brakes ##
 
-I don't know if I *need* anything for my brakes except replacement pads. These I would need to shop around for a bit, but I am thinking it'll be $150-250 for decent pads. 
+I don't know if I *need* anything for my brakes, but I should probably invest in new pads. Stopping power can make-or-brake (heh, heh) track performance but this is a daily driver. I need to find the intersection of cost-effective, power, and noise. I have my eyes on a few brands, but I would need more research before committing. The stock brakes are pretty good for a commuting car so I am only looking for a minor improvement really. I am hoping this will total somewhere between $150 and $250?    
 
-I'll need new tires in the foreseeable future, but not right now. I would like to drop $500-$600 or so on quality summer tires.
+
+Outside of driving lessons, tires are the easiest way to improve a car's performance. The only contact cars make -- well, _should make_, ;) -- with the road are the four patches of rubber underneath each tire. When I upgraded from the all-season tires my car came with, the difference in power to ground was immediately noticeable. Good cornering requires lateral grip in the turn and total grip coming out of the turn. FWD cars suffer from needing to both power and steer from one place, so I have a feeling maximal grip can only help.
+
+I'll would like new tires but don't need any right immediately. My current set are fairly modest, mid-end summer performance rubber with a decent bit of tread left. If I keep my car for more than a few months, though I want better quality, streetable tires. Aiming to drop $500-$600 or so.
 
 
 #### Cost Estimate: ####
@@ -137,13 +140,22 @@ I'll need new tires in the foreseeable future, but not right now. I would like t
 
 
 
-## 8. Suspension / Stance ##
+## 8. Suspension  ##
 
-Somewhere in the back of my mind, the cost of fixing everything up and making my car autocrossable makes sense. 
+Somewhere in the back of my mind, the cost of making my car both comfortable and autocrossable makes sense. This option is pretty unlikely given how beaten up the car is inside. Looking at the damage done to the passenger side carpeting (i.e. where I don't sit...) alone, comfortable might be a bit of a stretch.
 
-A not-too-terrible suspension kit is going to run me about $250 if I round up and include decent shipping time. I'm not sure how much labor would be for this, but I would maybe try to pair it with the alignment so it doesn't double up on cost there.
+My car is sort of high off the ground and while the ride quality is okay, the body roll doesn't really inspire confidence. While I want to be lower to the ground to reduce wheel gap (and *possibly* improve aerodynamics), stiffer springs and reduced body roll are more important to me.
 
-I am hoping $400 is a reasonable estimate here.
+A decent suspension kit will cost me about $250. There might be some labor for this -- I could see renting real stands to do the work with some help -- but I might try to pair it with getting my alignment fixed. If I can prevent doubling up on cost by aligning twice, that would be great.
+
+I am thinking $400 total is a reasonable guess for what I want.
+
+#### Cost Estimate: ####
+
+| Sell | Part | Keep |
+|----|----|-----|
+| 0  |  0 | 400 |
+
 
 # Totalling Up # 
 
@@ -153,10 +165,16 @@ Where I have added in some wiggle room for selling of about $500, just to be saf
 
 | Sell  | Part   | Keep    |
 |-------|--------|---------|
-|  ~1100 |  ~250  |  ~1600  |
+|  ~1100 |  ~250  |  ~2000  |
 
 
-The value of my car for resale is anywhere from $2000 - $4000 right now. VWs are not known for their reliability and this really hurts the value of higher mileage vehicles. Consider the fact that I owe just shy of $2000 on the car, I would only maybe come out just barely ahead if I was trying to sell the car properly. 
+The value of my car for resale is anywhere from $2000 - $4000 right now. VWs are *not* known for their reliability, so higher mileage vehicles depreciate hard. Since I owe just shy of $2000 for the car still, I would only _maybe_ come out ahead if I try to sell it properly. 
 
-I'm not sure what I can get for parting it out yet. My intake is CARB legal and retails for ~$250. I think I can sell it for $100 since it's been recently cleaned and I have the cleaning materials ready (it is an oiled filter). My exhaust retails for around $800 and comes with a catyltic converter. It doesn't have tooo many miles on it since the install had to wait for my finances to allow it. I think I can maybe ask $400-500 for it as is. My wheels are pretty much the lighest affordable wheels I could find. The black paint is chipped / faded in a few places, so that'll diminish their worth a bit, but they'd be solid for racing. I think I can probably get $200-300 out of the set of 4 given the cosmetic defects. The engine is phenomenal except for the minor leak. I would want to get this fixed before trying to sell it. I don't know if this engine has any real value but I would be ecstatic if it did. 
+I'm not sure what I can get for parting it out yet. The intake is CARB legal and retails for ~$250; I think I can sell it for $100 since the filter is pristine and I have spare cleaning materials ready (it's an oiled filter). My exhaust retails for about $800 with the catyltic converter; it doesn't have tooo many miles on it, either. I think I can could get $400-500 for it as is. My wheels are both light and affordable, but the black paint is chipped / faded in a few places. I think I can probably get $200-300 out of the set of 4 given the cosmetic defects. The engine and turbo are phenomenal except for a leaking gasket. I would get this fixed before trying to sell it, but I'm not sure there's a market for it. 
 
+I was hoping this post would lead to a concrete conclusion, but it seems like I still in 'wait-and-see' mode. I guess we'll see?
+
+
+There are at least three posts in this series so I will likely collect them together in a project page in a few weeks. I am hoping to plan my purchase over the next three months, but I can it being pushed until the end of December.
+
+Hopefully nothing catastrophic changes my situation before then!

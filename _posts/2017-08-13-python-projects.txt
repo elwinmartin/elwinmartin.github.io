@@ -1,0 +1,9 @@
+---
+layout: project
+title:  "Pythonic Projects"
+date:   2017-08-13 00:10:00 -0700
+categories: project python pythonic 
+project: true
+---
+
+I have a few ideas for some apps I'd like to write in Python. The first is Live & Let Drive, which can be found  ...
