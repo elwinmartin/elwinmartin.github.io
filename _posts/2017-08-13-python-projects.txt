@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: page
 title:  "Pythonic Projects"
 date:   2017-08-13 00:10:00 -0700
 categories: project python pythonic 
