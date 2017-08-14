@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 title:  "Musical Projects"
 date:   2017-08-12 00:10:00 -0700
 categories: project Super Disaster music
