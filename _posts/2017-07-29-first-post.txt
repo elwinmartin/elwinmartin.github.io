@@ -7,7 +7,9 @@ categories: jekyll update
 
 Hi everyone,
 
-I am going to try to  consistently chronicle my hobbies and professional life.
+<!--more-->
+
+I am going to try to consistently chronicle my hobbies and professional life.
 
 My social media accounts are fragmented and none of them really allows for long form writing. Hopefully this will fix that. 
 
