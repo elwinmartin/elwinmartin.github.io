@@ -2,16 +2,18 @@
 <html>
 <body onload="dayImage()">
 
+<p id="insert_here"> </p>
+
 <script>
 function dayImage() {
   var d = new Date();
   var n = d.getDay() // 
   n = 3;
   if (n == 3) {
-  	 document.getElementById("demo").innerHTML = "<img src='http://i1.kym-cdn.com/photos/images/newsfeed/001/091/264/665.jpg'>";
+  	 document.getElementById("insert_here").innerHTML = "<img src='http://i1.kym-cdn.com/photos/images/newsfeed/001/091/264/665.jpg'>";
   }
   else {
-  	document.getElementById("demo").innerHTML = "<img src='https://scontent.cdninstagram.com/t51.2885-15/e35/12905026_236791313347864_1070460595_n.jpg'>";
+  	document.getElementById("insert_here").innerHTML = "<img src='https://scontent.cdninstagram.com/t51.2885-15/e35/12905026_236791313347864_1070460595_n.jpg'>";
   }
 }
 </script>
