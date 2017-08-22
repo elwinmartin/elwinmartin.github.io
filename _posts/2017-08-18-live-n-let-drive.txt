@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Live & Let Drive: Part 1"
+date:   2017-08-13 00:10:00 -0700
+categories: project python pythonic 
+---
+
+Since the outline of the project is available on my Python projects page [here](http://www.elwinmartin.com/python-projects), we're going to dive right in to some updates.
+
+While a deployable app might be cool as a final product, building out backend functionality will be my focus for the foreseeable future.
+
+Starting from the top, here are some notes on my first couple commits for this. 
+
+For the sake of extensibility I am using YAML configuration files. Currently, there are only a handful of lines in the config, but this could change from adding functionality or data sources as this grows.
+
+
+The ratio of import statements to code is almost silly at these early stages. The same is true comparing comments to code. 
+I am still deciding on an environment for this project. So far none of the code has been run or tested, haha. 
+Instead of running at each step, I have been focused on design and writing Pythonic code. This drafting phase is going to need to end sooner rather than later before I end up with a mountain of untested code.
+
+The general flow of the code is straightforward:
+
+
+1. Load configuration files
+2. Load CLI Args
+3. GET data for apartments
+4. GET data for travel time by apartment
+5. Filter on travel time
+6. Return apartments
+
+There are some formatting and presentation issues to keep track of, but internally, I think everything will be kept in dictionaries. I am tempted to return results as a CSV, though.

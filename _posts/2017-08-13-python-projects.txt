@@ -6,4 +6,10 @@ categories: project python pythonic
 project: true
 ---
 
-I have a few ideas for some apps I'd like to write in Python. The first is Live & Let Drive, which can be found  ...
+I have a few ideas for some apps I'd like to write in Python. These projects are partially to keep me from falling into bad habits writing so much PHP for work, but I think each of them will be neat little things well suited for the language.
+
+
+The first app is called Live & Let Drive (you can find the repo on my github at http://www.github.com/Live-Let-Drive). This is definitely in its early phases, but a working proof of concept should be done soon.
+
+The basic premise is to allow people to find new apartments within some reasonable drive of where they work. While you may be able to select a radius -- or even a custom area -- on apartment listings sites today, I'm not aware of anyone offering information about average commute times. In particularly messy urban areas like Los Angeles, people often speak of distance in time to arrive instead of geographic distance. Fortunately, Google Maps has an API for querying travel times! While the data come from averaged times, this can still be a useful way to check the real time (or distance) it takes to get to work from a potential new place. Distances can be important, too, for apartment hunters tied into leasing agreements or with higher mileage vehicles.
+
