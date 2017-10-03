@@ -5,22 +5,22 @@ date:   2017-08-06 12:20:00 -0700
 categories: news cars
 ---
 
-Just about three years ago I bought my first car. My 2007 VW GTI has given me a mix of sweet and sour emotions and I am looking for replacements as thing winds down to a bitter end.
+Just about three years ago I bought my first car. My 2007 VW GTI has given me a mix of sweet and sour emotions and I am looking for replacements as things wind down to a bitter end.
 
 
 <!--more-->
 
 
-There have been some ups and downs, but mostly net downs at this point. While it has been the most fun of any car I have driven -- n.b. my limited experience -- it has had more problems than any car I can remember friends or family owning (except my brother's A3, which was almost the same car). I knew going in that this car was going to involve some repair costs. The reliability was often rated, at best, a 3.5/5 for this generation GTI. Through a combination of money down, decent negotiation, and public fear of older VWs I was able to sustain car payments of around ~$150 a month. 
+There have been some ups and downs, but we are netting downs at this point. While it has been the most fun of any car I have driven -- n.b. my limited experience -- it has had more problems than any car I can remember friends or family owning (except my brother's A3, which was almost the same car). I knew going in that this car was going to involve some repair costs. The reliability was often rated, at best, around 3.5/5 for this generation. Through a combination of money down, decent negotiation, and public fear of older VWs (depreciation) I was able to obtain car payments of around ~$150 a month. 
 
 
-While I have had my share of financial instability my car payments have remained in-check despite emergencies; I have no regrets about the rate or amount I financed. That's not to say I'm not looking forward to being done with making payments, of course, haha.
+Throughout my share of financial instabilities and emergencies, my car payments have remained in-check; I have no regrets about the rate or amount I financed. That's not to say I'm not looking forward to being done with making payments, of course, haha.
 
 
 Repairs, however, have been needed at random intervals and with great expense (as much as $1700 in a single repair -- near the total I still owe). They're beginning to take a toll on my bank account and well being. What's worse, I'm not even finished fixing everything wrong. With that in mind...
 
 
-The current suite of known problems (serious or otherwise) include:
+The current suite of known 'problems' (serious or otherwise) include:
 
 1. An SRS light (faulty airbag code)
 
@@ -55,9 +55,9 @@ The most recent issue (#2), is the most troubling as I cannot comfortably drive 
 
 Update: This got taken care of already and was (partially) my fault, but I am going make notes regardless.
 
-There is a gasket leaking oil that has not been properly fixed because "it would be expensive". I think in order to responsibly sell my engine, I would want to replace this or make it very clear this needs to be done. In the mean time I had the burnt out spark plugs replaced with higher end ones. 
+There is a gasket leaking oil that has not been properly fixed because "it would be expensive". I think in order to responsibly sell my engine, I would want to replace this or make it very clear this needs to be done. 
 
-I was under the impression that cheap spark plugs were not much of an issue, but both the tuning shop guys and the local shop guys said to always buy what's in the car or nicer. I was not aware that there could be quality differences in a part so ridiculously simple. That said, it's a small price to pay for peace of mind.
+The CEL was from excessive misfiring which is short for "I burned out my spark plugs". I was under the impression that cheap spark plugs were not much of an issue, but both the tuning shop guys and the local shop guys said to always buy what's in the car or nicer. I was, honestly, not aware that there could be quality differences in a part so ridiculously simple to design and manufacture. That said, it's a small price to pay for peace of mind and I will buy decent to high quality plugs and coils going forward.
 
 
 | Sell  | Part  | Keep   |
@@ -80,9 +80,9 @@ The aftermarket exhaust I purchased does not appear to have a downstream O2 sens
 ## 4. Visual Inspection ##
 
 
-A car must pass a visual inspection to pass emissions testing in California. This is kind of silly, to be honest, and I would prefer a legitimate tail pipe test, but I do not really have a say in the matter.
+A car must pass a visual inspection to pass emissions testing in California. This is kind of silly, to be honest, and I would prefer a legitimate tail pipe test, but I don't really have a say in the matter.
 
-My car's stock exhaust will probably need to be popped back on. Fortunately, I have kept it for this reason. Unfortunately, that's quite a bit of money for a change I don't really care about.
+My car's stock exhaust will probably need to be popped back on. Fortunately, I still have it on the floor of my closet. Unfortunately, that's quite a bit of money for a change I don't really care about.
 
 The exhaust I have is great, but to get it off and the stock one on is probably about 150 dollars. I could possibly rent a stand and get a friend to help me do this... we'll see. 
 
@@ -90,7 +90,7 @@ To keep the car, I would plan on popping the free flowing exhaust back on immedi
 
 | Sell  | Part  | Keep   |
 |-------|-------|--------|
-|  150   |  0    | 300  |
+|  150   |  0   | 300  |
 
 
 
@@ -98,7 +98,7 @@ To keep the car, I would plan on popping the free flowing exhaust back on immedi
 
 The first thing this car needs is a professional detailing. 
 
-I am no used car expert, but I am confident that it would lose hundreds of dollars off its functional worth in its current state. The biggest issue is general cleanliness -- caused by my laziness followed by my brokeness. For a long stretch of time I was "just a weekend with free time" away from getting my car properly vacuumed. Similarly, I was "just a month" away from having the financial stability to spend $100-$200 on a professional cleaning without risking my ability to buy groceries. I am pretty sure I have *finally* reached a point where both of these excuses are just that, excuses. That said, the detailing would cost some real money.
+I am no used car expert, but I am confident that it would lose hundreds of dollars off its worth in its current state. The biggest issue is general cleanliness -- caused by my laziness followed by my brokeness. For a long stretch of time I was "just a weekend with free time" away from getting my car properly vacuumed. Similarly, I was "just a month" away from having the financial stability to spend $100-$200 on a professional cleaning without risking my ability to buy groceries. I am pretty sure I have *finally* reached a point where both of these excuses are just that, excuses. That said, the detailing would cost some real money.
 
 
 #### Cost Estimate: ####
@@ -110,7 +110,7 @@ I am no used car expert, but I am confident that it would lose hundreds of dolla
 
 ## 6. Alignment and Axles ##
 
-The alignment is a bit off right now, so fixing it will be necessary to drive the car harder. I could definitely sell it without changing anything here, but there's long term if I would want to take care of this.
+The alignment is a bit off right now, so fixing it will be necessary to drive the car harder. I could definitely sell it without changing anything here, but there's some work to be done if I keep it.
 
 A friend recommended a place that does alignments for $100. I would be looking to get the general left-right unbalances squared up and camber my wheels slightly for improved cornering. Unfortunately, I may need to swap out the front axles from accumulated damage via torn CV boots. Zero issues with turning or noise right now, though, so hopefully not!
 
@@ -127,10 +127,10 @@ I estimated an extra $200 in case that I need to order a pair of front axles (th
 
 ## 7. Tires & Brakes ##
 
-I don't know if I *need* anything for my brakes, but I should probably invest in new pads. Stopping power can make-or-brake (heh, heh) track performance but this is a daily driver. I need to find the intersection of cost-effective, power, and noise. I have my eyes on a few brands, but I would need more research before committing. The stock brakes are pretty good for a commuting car so I am only looking for a minor improvement really. I am hoping this will total somewhere between $150 and $250?    
+I don't know if I *need* anything for my brakes, but I should probably invest in new pads. Stopping power can make-or-brake (heh, heh) track performance but this is a daily driver. I think I need to do a bit more research before committing. The stock brakes are pretty good for a commuting car so I am only looking for a minor improvement really. I am hoping this will total somewhere between $150 and $250?    
 
 
-Outside of driving lessons, tires are the easiest way to improve a car's performance. The only contact cars make -- well, _should make_, ;) -- with the road are the four patches of rubber underneath each tire. When I upgraded from the all-season tires my car came with, the difference in power to ground was immediately noticeable. Good cornering requires lateral grip in the turn and total grip coming out of the turn. FWD cars suffer from needing to both power and steer from one place, so I have a feeling maximal grip can only help.
+Outside of driving lessons, I think tires are the easiest way to improve a car's performance. The only contact cars make -- well, _should make_, ;) -- with the road are the four patches of rubber underneath each tire. When I upgraded from the all-season tires my car came with, the difference in power to ground was immediately noticeable. Good cornering requires lateral grip in the turn and total grip coming out of the turn. FWD cars suffer from needing to both power and steer from one place, so I have a feeling maximal grip can only help.
 
 I'll would like new tires but don't need any right immediately. My current set are fairly modest, mid-end summer performance rubber with a decent bit of tread left. If I keep my car for more than a few months, though I want better quality, streetable tires. Aiming to drop $500-$600 or so.
 
@@ -145,7 +145,7 @@ I'll would like new tires but don't need any right immediately. My current set a
 
 ## 8. Suspension  ##
 
-Somewhere in the back of my mind, the cost of making my car both comfortable and autocrossable makes sense. This option is pretty unlikely given how beaten up the car is inside. Looking at the damage done to the passenger side carpeting (i.e. where I don't sit...) alone, comfortable might be a bit of a stretch.
+Somewhere in the back of my mind, the cost of making my car both comfortable and autocross-able makes sense. This option is pretty unlikely given how beaten up the car is inside. Looking at the damage done to the passenger side carpeting (i.e. where I don't sit...) alone, comfortable might be a bit of a stretch.
 
 My car is sort of high off the ground and while the ride quality is okay, the body roll doesn't really inspire confidence. While I want to be lower to the ground to reduce wheel gap (and *possibly* improve aerodynamics), stiffer springs and reduced body roll are more important to me.
 
@@ -160,7 +160,7 @@ I am thinking $400 total is a reasonable guess for what I want.
 | 0  |  0 | 400 |
 
 
-# Totalling Up # 
+# Totaling Up # 
 
 So across each category I am looking at around:
 
@@ -173,11 +173,13 @@ Where I have added in some wiggle room for selling of about $500, just to be saf
 
 The value of my car for resale is anywhere from $2000 - $4000 right now. VWs are *not* known for their reliability, so higher mileage vehicles depreciate hard. Since I owe just shy of $2000 for the car still, I would only _maybe_ come out ahead if I try to sell it properly. 
 
-I'm not sure what I can get for parting it out yet. The intake is CARB legal and retails for ~$250; I think I can sell it for $100 since the filter is pristine and I have spare cleaning materials ready (it's an oiled filter). My exhaust retails for about $800 with the catyltic converter; it doesn't have tooo many miles on it, either. I think I can could get $400-500 for it as is. My wheels are both light and affordable, but the black paint is chipped / faded in a few places. I think I can probably get $200-300 out of the set of 4 given the cosmetic defects. The engine and turbo are phenomenal except for a leaking gasket. I would get this fixed before trying to sell it, but I'm not sure there's a market for it. 
+I'm not sure what I can get for parting it out yet. The intake is CARB legal and retails for ~$250; I think I can sell it for $100 since the filter is pristine and I have spare cleaning materials ready (it's an oiled filter). My exhaust retails for about $800 with the catalytic converter; it doesn't have tooo many miles on it, either. I think I can could get $400-500 for it as is. My wheels are both light and affordable, but the black paint is chipped / faded in a few places. I think I can probably get $200-300 out of the set of 4 given the cosmetic defects. The engine and turbo are phenomenal except for a leaking gasket. I would get this fixed before trying to sell it, but I'm not sure there's a market for it. 
 
-I was hoping this post would lead to a concrete conclusion, but it seems like I still in 'wait-and-see' mode. I guess we'll see?
+I was hoping this post would lead to a concrete conclusion, but it seems like I'm still in 'wait-and-see' mode. I guess we'll see?
 
 
 There are at least three posts in this series so I will likely collect them together in a project page in a few weeks. I am hoping to plan my purchase over the next three months, but I can it being pushed until the end of December.
 
 Hopefully nothing catastrophic changes my situation before then!
+
+_Update 9/16:_ I have a quote for around $1500 for a wholesale purchase of my car (by a service that parts out cars). So I think I can safely expect between $1750-2000 parting it out slowly and carefully since I expect those are the sort of margins they would be looking to make. 

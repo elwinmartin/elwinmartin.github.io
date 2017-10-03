@@ -1,0 +1,108 @@
+---
+layout: post
+title:  "SD Game Jam"
+date:   2017-08-25 00:10:00 -0700
+categories: csharp games video-games  
+---
+
+**8/25/17**
+
+Oh man, the event has arrived.
+
+We're going to be working with Unity (good thing I know C#, right? ...right? hah...) to build some sort of 2D game.
+
+One of the ideas casually pitched was making a rhythm game, which sounds like it could be fun. I'll write the rest of this past tense as things happen, this will go up around a week after if all goes well! :)
+
+--------------
+
+# Friday Night Lights
+
+We got in sort of late but managed to catch the end of the opening remarks. The bits of the presentation we caught were great, both funny and informative. The theme of the game jam was announced at the very end of the talk.
+
+##_If we knew then what we know now_
+
+The theme.
+	Few ideas
+	Decided kinda quick
+	I liked the hero rogue like
+
+
+
+The food sucked, ran out, etc.
+
+My game idea
+
+Our final idea
+
+For me, getting used to the basics
+
+
+Base drawings done
+	replacing the faces lol
+
+Music got started
+
+Meeting Keith
+
+Setting up versioning / initial commits (Keith)
+
+floors / layering sorted out / camera basics
+
+Ghost control script
+
+I commited some stuff for the bus motion / got a sense of rigid bodies in unity 
+
+Main menu images
+
+
+# Sleepy Saturday
+
+Sleep going into Saturday was questionable at best (I got several hours in, but at fairly low quality) to non-existant (Keith 
+was up until midday). This definitely slowed us down for part of the day, but I think we made solid progress regardless. 
+
+So one of the coolest parts of Saturday was really getting our musical themes dialed in. There was was
+a pretty silly exchance in which Will played us about a minutes worth of music he had been working on
+turning into a loop and everyone else had to let him know he'd basically reinvented the Dr. Mario theme. 
+Some tweaks were made from there and we ended up with our general purpose gameplay music which I am definitely
+a fan of. 
+
+We also started to really get animation sorted out and generalized. Making sure that our boy Theo could
+walk in a reasonable fashion and that the clock sequence didn't look compeltely attrocious was a surprising
+amount of work.
+
+One of the sillier sounding landmarks of the day was one of the most important, though: getting the banana to move.
+
+It doesn't spoil too much of the game to say that the bananas are one of the interactable sprites we used. The
+rigid-body motion of the banana was written pretty much from scratch which meant that it was initially very,
+very clunky. One of the classic traits of 2D games is that the sprites often have over-sized bounding boxes.
+This was still the case here, but some trial and error gave a (fairly) natural looking interaction between Theo
+and the banana we used as a mechanic.
+
+
+
+# Stressed Out Sunday
+
+Most of us got some decent sleep going into Sunday.
+
+Keith went home
+
+Built levels 2 -> 5
+
+Scene management / setup largely brought together.
+
+So we barely finished by our own measures and didn't by my own.
+
+
+# Results
+
+TL;DR We didn't win anything.
+
+...but honestly I'm happy we finished and had something deliverable at the end.
+
+We did get runner-up for best art! This was 100% carried by Rayan doing pretty much all of this
+in Photoshop by himself with some minor support from the rest of us on animating things smoothly. 
+
+We placed fourth overall out of something like twenty groups, so I think we could be competitive if we 
+devote some time to learning our individual roles better and try again in a few months.
+
+If you made it this far you might be interested in checking out our game here: https://kfarnham.itch.io/time-ghost

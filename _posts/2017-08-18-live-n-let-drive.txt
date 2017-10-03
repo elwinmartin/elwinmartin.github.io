@@ -29,3 +29,5 @@ The general flow of the code is straightforward:
 6. Return apartments
 
 There are some formatting and presentation issues to keep track of, but internally, I think everything will be kept in dictionaries. I am tempted to return results as a CSV, though.
+
+Let's see how this all comes together!

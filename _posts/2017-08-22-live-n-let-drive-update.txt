@@ -5,15 +5,21 @@ date:   2017-08-24 00:10:00 -0700
 categories: project python pythonic 
 ---
 
-*Minor update here*
-
+## Some Updates
 
 So, it turns out that there's similar functionality available to what I envisioned available from Walkscore. 
 
-Their approach is very powerful, but it is different than mine.
+Their approach is very powerful, but it looks like it's different from mine.
 
 I think there's still some value in finishing the project for my own sake and because the functionality isn't quite the same.
 
 That said, I will probably use Walkscore for finding my next apartment unless I can find a good way to aggregate
 better apartment data than they have, haha...though maybe I could get things going with a nice normalized form for
-housing listings...
+housing listings...anyways, that is a while off.
+
+In the meantime, I have made some light functionality changes and have decided to go with [Flask](http://flask.pocoo.org/) as
+the web framework for this project. The routing for this will be trivial, but I did setup a hello world route and checked that it served nicely.
+
+I think the only page routes I would need are '/', 'contact', and '/about' for the forseeable future. The contact and about pages will be static. The base page will accept 'GET' and 'POST' requests, using the latter for handling user input. 
+
+Use two frameworks as a study...
