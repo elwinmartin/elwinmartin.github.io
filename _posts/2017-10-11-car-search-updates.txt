@@ -1,0 +1,50 @@
+<style TYPE="text/css">
+code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inherit;}
+</style>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+    tex2jax: {
+        inlineMath: [['$','$'], ['\\(','\\)']],
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'] // removed 'code' entry
+    }
+});
+MathJax.Hub.Queue(function() {
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+});
+</script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+---
+layout: post
+title:  "Car Search Continuation"
+date:   2017-10-11 12:20:00 -0700
+categories: news cars
+---
+
+So my attention has been pulled in a few different directions during this long and occasionally painful process. Fortunately, spending hours researching and checking out cars has helped distill my needs and wants down to a few core features. 
+
+
+<!--more-->
+
+The following is what I've deemed important for a daily driver (in order):
+
+0. Four seats and a place *I* can be comfortable 
+1. $12,000 or less to keep the payments reasonable
+2. Power to weight (really, torque to weight) >=~ better than my GTI
+3. A quick transmission
+4. Steering feel with minimal dead
+5. AWD >= RWD >> FWD 
+6. < 3,5000 lbs
+
+For my weekend / track car I "need" the following:
+
+1. Max of $4,000 initial cost
+2. Hard max of 3,000 lbs
+3. Manual transmission
+4. RWD
+5. Must Run
+
+I $x^2$ $$x^4$$
