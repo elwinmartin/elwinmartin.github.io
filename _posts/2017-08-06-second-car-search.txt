@@ -24,19 +24,19 @@ The current suite of known 'problems' (serious or otherwise) include:
 
 1. An SRS light (faulty airbag code)
 
-2. Flashing CEL Under Load (cylinder 4 misfires at idle)
+2. Flashing CEL Under Load (cylinder 4 misfires at idle) [update: addressed!]
 
-3. OBD 2 (O2 sensor not found)
+3. OBD 2 (O2 sensor not found) [update: addressed!]
 
-4. Visual Inspection (Aftermarket exhaust not CARB compliant)
+4. Visual Inspection (Aftermarket exhaust not CARB compliant) [update: addressed!]
 
-5. Cosmetic Damage / Age (minor dimples, stain carpeting, etc.)
+5. Cosmetic Damage / Age (minor dimples, stain carpeting, etc.) [update: addressed!]
 
 6. Alignment and Axles (CV boots torn, alignment off)
 
 7. Tires & Brakes (Okay, but just okay)
 
-8. Suspension / Stance (Not a 'problem', strictly speaking)
+8. Suspension (Not a 'problem', strictly speaking)
 
 
 The most recent issue (#2), is the most troubling as I cannot comfortably drive highway speeds without fear of spewing gasoline into my cat of breaking something in my engine. My roommate has a working vehicle, so for the time being I will be okay, but I would prefer to have transportation as soon as possible. I'm going to try to break down this and the other fixed to give a sense of what we're looking at for total car cost before I can either sell it or part it out.
@@ -45,11 +45,11 @@ The most recent issue (#2), is the most troubling as I cannot comfortably drive 
 ## 1. SRS Light ##
 
 
-
 | Sell  | Part  | Keep   |
 |-------|-------|--------|
-| 0-100   |  0    | 0-100  |
+| 200   |  0    | 200  |
 
+Alright, so I think I am going to get a quote for this finally. I took out the seat, reconnected things and played with the cables and any damage done couldn't be fixed by just sort of hand adjusting the wiring. I think I'm just going to sink the money to turn this light off / get whatever cabling is damaged replaced.
 
 ## 2. Flashing CEL ##
 
@@ -62,12 +62,14 @@ The CEL was from excessive misfiring which is short for "I burned out my spark p
 
 | Sell  | Part  | Keep   |
 |-------|-------|--------|
-| 120   |  ?    | 120  |
+| 120   |  N/A    | 120  |
 
 
 
 
 ## 3. OBD 2 (O2 sensor N/A) ##
+
+Update: Took care of this!
 
 The aftermarket exhaust I purchased does not appear to have a downstream O2 sensor??? My OBD-II scanner reports N/A, but I'm not sure it should. This prrrrobably needs to be fixed to get an up-to-date emissions test, but I might get a smog pretest just to be sure. I don't know if the original one is hanging out with my stock downpipe or not, either. Oops?  
 
@@ -79,6 +81,7 @@ The aftermarket exhaust I purchased does not appear to have a downstream O2 sens
 
 ## 4. Visual Inspection ##
 
+Update: Took care of this, too!
 
 A car must pass a visual inspection to pass emissions testing in California. This is kind of silly, to be honest, and I would prefer a legitimate tail pipe test, but I don't really have a say in the matter.
 
@@ -96,7 +99,7 @@ To keep the car, I would plan on popping the free flowing exhaust back on immedi
 
 ## 5. Cosmetic Damage / Age ##
 
-The first thing this car needs is a professional detailing. 
+The first thing this car needs is a professional detailing [update: got my car detailed and then hand cleaned the rest!]. 
 
 I am no used car expert, but I am confident that it would lose hundreds of dollars off its worth in its current state. The biggest issue is general cleanliness -- caused by my laziness followed by my brokeness. For a long stretch of time I was "just a weekend with free time" away from getting my car properly vacuumed. Similarly, I was "just a month" away from having the financial stability to spend $100-$200 on a professional cleaning without risking my ability to buy groceries. I am pretty sure I have *finally* reached a point where both of these excuses are just that, excuses. That said, the detailing would cost some real money.
 
@@ -182,4 +185,6 @@ There are at least three posts in this series so I will likely collect them toge
 
 Hopefully nothing catastrophic changes my situation before then!
 
-_Update 9/16:_ I have a quote for around $1500 for a wholesale purchase of my car (by a service that parts out cars). So I think I can safely expect between $1750-2000 parting it out slowly and carefully since I expect those are the sort of margins they would be looking to make. 
+_Update 9/16:_ I have a quote for around $1500 for a wholesale purchase of my car (by a service that parts out cars). So I think I can safely expect between $1750-2000 parting it out slowly and carefully since I expect those are the sort of margins they would be looking to make.
+
+_Update 12/9:_ I would be comfortable sellng this car to a dealer, too, depending on how things go. I think I can extract maybe $2,000-3,000 from this car when all is said and done. 
