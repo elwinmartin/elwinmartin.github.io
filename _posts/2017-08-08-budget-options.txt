@@ -35,19 +35,19 @@ I have zero qualms with an automatic transmission and I would prefer something l
 
 Here is my first draft of options, from most practical to least.
 
-1. Honda Civic (Sport Trim)
+### 1. Honda Civic (Sport Trim)
 
 ![honda-civic-hatch](https://www.hawaiihondadealers.com/wp-content/plugins/di-honda-integration/assets/img/model-images//2017-civic-hatchback/trims/2017-Honda-Civic-Hatchback-Touring.png){:class="img-responsive"}
 
-2. Mazda 3 (2.5L Trim)
+### 2. Mazda 3 (2.5L Trim)
 ![mazda-3-hatch](https://www.mazdausa.com/siteassets/vehicles/2017/mazda3-5-door---m3h/trims/grand-touring/17-m3h-gt-41v-soul-red-profile.png?w=428){:class="img-responsive"}
 
-3. VW GTI (Base)
+### 3. VW GTI (Base)
 
 ![vw-gti](http://st.motortrend.ca/uploads/sites/10/2016/09/2017-volkswagen-gti-se-5door-hatchback-angular-front.png){:class="img-responsive"}
 
 
-4. Toyobaru Twin (Base)
+### 4. Toyobaru Twin (Base)
 
 ![toyobaru-twin-86](https://4.bp.blogspot.com/-ncdSgoCP5yY/WCr4SwxqVlI/AAAAAAAAtD0/wdZN6S426KcT0dVUxcKUPfB5YMBJMeeuACLcB/s1600/toyota-86-solar-orange-limited-edition-0.jpg){:class="img-responsive"}
 
@@ -55,17 +55,17 @@ Here is my first draft of options, from most practical to least.
 
 I haven't put as much thought into these, except for the FR-S since it overlaps with the new 86/BRZ shown above.
 
-* Hyundai Genesis (2.0L Turbo)
+### Hyundai Genesis (2.0L Turbo)
 
 ![hyundai-genesis](http://st.motortrend.com/uploads/sites/10/2015/11/2011-hyundai-genesiscoupe-3.8-grand-touring-6-speed-at-side-view.png){:class="img-responsive"}
 
 
-* Scion FR-S (Base)
+### Scion FR-S (Base)
 
 ![scion-frs](http://st.motortrend.com/uploads/sites/10/2015/11/2016-scion-frs-coupe-angular-rear.png){:class="img-responsive"}
 
 
-* BMW 228 i (Base)
+### BMW 228i (Base)
 
 ![bmw-228i](https://www.bmwusa.com/content/dam/bmwusa/2Series/Coupe/2018/BMW_2Series_Coupe_Design_03.png){:class="img-responsive"}
 
@@ -79,34 +79,34 @@ I'm going to break down my options partially by brand here since that's going to
 
 Weekend Cars:
 
-1. Mazda Miata, Miata, Miata (NA/NB/NC)
+### 1. Mazda Miata, Miata, Miata (NA/NB/NC)
 
 ![miata-gen-comp](https://i.pinimg.com/originals/42/17/7d/42177d3cf104a2c8da6d8a379b8128f6.jpg){:class="img-responsive"}
 
-2. C4/C5 Corvette
+### 2. C4/C5 Corvette
 
 ![c4-vette](https://www.corvsport.com/wp-content/uploads/2017/02/Corvette-C4-drive-my-test-2014-05.jpg){:class="img-responsive"}
 
-3. Nissan 240SX / 300ZX
+### 3. Nissan 240SX / 300ZX
 
 ![nissan-300ZX](https://conceptzperformance.com/items/27311/original/TwinZ+Type3+wing+1.jpg){:class="img-responsive"}
 
-4. BMW Z3 / E36 M3
+### 4. BMW Z3 / E36 M3
 
 ![bmw-z3](https://upload.wikimedia.org/wikipedia/commons/2/2e/BMW_Z3_1.9L_1998.jpg){:class="img-responsive"}
 
-5. Honda S2000
+### 5. Honda S2000
 
 ![honda-s2k](https://i.kinja-img.com/gawker-media/image/upload/s--iRNt2slm--/c_scale,f_auto,fl_progressive,q_80,w_800/18udiwdah69s6jpg.jpg){:class="img-responsive"}
 
-6. Toyota MR2 Turbo or MR2 Spyder
+### 6. Toyota MR2 Turbo or MR2 Spyder
 
 ![toyota-mr2](http://cdn6.3dtuning.com/info/Toyota%20MR-S%202002%20Convertible/factory/3.jpg){:class="img-responsive"}
 
-7. Ford Mustang
+### 7. Ford Mustang
 
 ![mustang](http://dustrunnersauto.com/wp-content/uploads/2015/07/1993-ford-mustang-lx-front-view-e1443992926724.jpg){:class="img-responsive"}
 
-8. Lexus SC / Toyota Soarer
+### 8. Lexus SC / Toyota Soarer
 
 ![toyota-power](https://13252-presscdn-0-94-pagely.netdna-ssl.com/wp-content/uploads/2016/10/SC300-6-e1477934425573-940x591.jpg){:class="img-responsive"}
