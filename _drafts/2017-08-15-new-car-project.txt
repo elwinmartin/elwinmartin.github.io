@@ -1,9 +1,0 @@
----
-layout: page
-title:  "Daily Driver Dilemas"
-date:   2017-08-13 00:10:00 -0700
-categories: project car driving racing 
-project: true
----
-
-TODO: fill content

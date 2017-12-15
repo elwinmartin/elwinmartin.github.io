@@ -12,20 +12,34 @@ So my attention has been pulled in a few different directions during this long a
 
 The following is what I've deemed important for a daily driver (in order):
 
-0. Four seats and a place *I* can be comfortable 
-1. $12,000 or less to keep the payments reasonable
-2. Power to weight (really, torque to weight) >=~ better than my GTI
-3. A quick transmission
-4. Steering feel with minimal dead
-5. AWD >= RWD >> FWD 
-6. < 3,5000 lbs
+0. Four seats
+1. $$\leq 12,000$$ USD
+2. Power to weight (really, torque to weight) $$\stackrel{>=}{\sim}$$ better than my GTI
+3. Quick transmission
+4. Steering feel
+5. AWD $$>=$$ RWD $$>>$$ FWD 
+6. $$< 3,500$$ lbs
 
 For my weekend / track car I "need" the following:
 
-1. Max of $4,000 initial cost
-2. Hard max of 3,000 lbs
-3. Manual transmission
+1. $$<4,000$$ USD (at purchase) 
+2. $$<3,000$$ lbs
+3. Manual
 4. RWD
 5. Must Run
 
-I $x^2$ $$x^4$$
+For the fun car I'll be looking at a Toyota MR2 Spyder in the coming weeks. 
+If the pre-purchase inspection picks up anything that's more than about a grand to fix 
+then I will probably aim for a Kei (軽) car. A Honda Beat would be perfect and there are
+a growing number available for import from Japan at modest mileage. 
+A tiny turbo or motorcycle engine swap could be an easy way to make one very quick, too. 
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/rEi6p"><a href="//imgur.com/rEi6p">MR2 Spyder vs Honda Beat</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+The daily driver has been a struggle for me. Budgeting for performance and reliability 
+is easier said than done for a sedan or 2+2 coupe. I am still sort of interested in a hot 
+hatch or wagon (Volvo or Saab, maybe?) but checking out a "spotless" 92-X Aero that had hidden subframe 
+damage selling for $9,000 has sort of dampened my interest. 
+
+I checked out a 300ZX 2+2 with a TT engine swapped in but it seemed like the vehicle would need several grand worth of work to bring it back to its former glory.
+
