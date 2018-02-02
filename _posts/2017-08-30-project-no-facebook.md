@@ -5,8 +5,6 @@ date:   2017-08-30 00:10:00 -0700
 categories: project webdev web development 
 ---
 
-DRAFT DRAFT DRAFT
-
 I had a *great* idea earlier today. What if I could find a way to access the two features I use on Facebook: Events & Messenger (Okay, mayyybe Photos)... 
 
 <!--more-->

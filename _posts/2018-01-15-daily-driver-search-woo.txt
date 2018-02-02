@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Car Search Continuation"
+date:   2018-01-15 12:20:00 -0700
+categories: news cars
+---
+
+So since I've got my track car, we're halfway done! This search is going to continue at the same slow pace, however, since I will be aiming for something costly enough to require saving up for a down payment. I think I'm committed to buying something *relatively* inexpensive and hoping to outlive the cost of the loan if possible. With that in mind, let's review what I'm looking for
+
+
+<!--more-->
+
+The following is what I've deemed important for a daily driver (in order):
+
+0. Four seats
+1. $$\leq 12,000$$ USD
+2. Power to weight (really, torque to weight) $$\stackrel{>=}{\sim}$$ better than my GTI
+3. Quick transmission
+4. Steering feel
+5. AWD $$>=$$ RWD $$>>$$ FWD 
+6. $$< 3,500$$ lbs
+
+The daily driver has been a struggle for me. Budgeting for performance and reliability 
+is easier said than done for a sedan or 2+2 coupe. I am still sort of interested in a hot 
+hatch or wagon (Volvo or Saab, maybe?) but checking out a "spotless" 92-X Aero that had hidden subframe 
+damage selling for $9,000 has sort of dampened my interest. 
+
+I checked out a 300ZX 2+2 with a TT engine swapped in but it seemed like the vehicle would need several grand worth of work to bring it back to its former glory.
+

@@ -1,0 +1,18 @@
+#Global Game Jammin'
+
+So we got the band (sans Will) back together for another hackathon! I want to say it went by quicker than I expected or something, but really I have a good feel for how events like these go at this point. That said, looking back at how things went last weekend I'm fairly happy with how it went. 
+
+<!--more-->
+
+## The Theme: Transmission
+
+We got the theme before we had all arrived so Bijan and I got a headstart on potential mechanics. I was particularly proud of a silly idea that sort of falls apart in retrospect, but sounded great at the time. What if you were in a racecar and you had to play as the transmission? There would be a fixed path along each track with an optimal speed for each corner. Downshifting and upshifting would give you access to different ranges of speeds, but the RPMs would be mostly handled for you. Poor shifting leads to the wrong entry speed => bad cornering. Downshift too far? You break the gearbox and the car catches fire (insert link to money-shift video).
+
+There's a whole host of problems with this and making it engaging effectively makes it an automotive rhythm game. Honestly, that could still be sort of fun, but it's not really all that novel.
+
+We ended up settling on transmitting an illness in an ironic setting: a conference / hackathon type environment. Irony usually scores some bonus silliness points so we thought we might be onto something, though sickness was a pretty common take on the theme.
+
+## Literally Another Dimension
+
+Though our first game was in 2D, the week or so leading up to the jam we each got in enough practice with Unity to feel comfortable shooting for a 3D game. We decided to try to enlist someone with skills in 3D modeling or at least more comprehensive knowledge of Unity and reached out over the event's Discord channel.
+

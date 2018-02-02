@@ -1,0 +1,55 @@
+# Socal Python @ Google
+
+So I knew coming in that Google would be a great host and I was not disappointed! Quality space to 
+
+### SCALE 16x SM50 coupon 
+
+### PyCon is birthday week again T_T
+
+## SQL -> Pandas
+
+Do you have CSVs? Do you not want (or otherwise can't have) a SQL instance? Python + Pandas is an option.
+
+SQL lets you build a sentence to get the data you want. 
+
+Pandas requires you to chain together various methods on your data until you get what you want.
+
+For a database or dataframe named `airports`
+`SELECT * FROM airports` vs. `airports`
+
+Applying conditionals on indices allows you to replicate WHERE clauses; these conditionals can be logically tied together as expected. 
+
+The syntax feels slightly more awkward, but that might be biased by familiarity.
+
+GROUP BY has an analogous method call in pandas, for example:
+`airports.groupby('type')` and `airpors.groupby(['type','country'])`
+
+There is no direct equivalent to a HAVING statement; using a Lambda function you can replicate some things.
+
+There's also no direct way to use OFFSET; you just have to `.head`/`.tail` to where you'd like to be.
+
+JOIN statements look like a MESS. The `.merge` method is slightly awkward to read and would probably require regularly referring to the documentation. 
+
+UNION statements require using a method from pandas, so it looks a little different since you have dataframes as your arguments. This is sort of inconvenient from a consistency/readability perspective, IMO, but it might be sort of an artificial issue from trying to tie oneself to SQL style operations.
+
+The benefit of Pandas are really the OTHER capabilities rather than the query functionality. There is a decent variety of export formatting available, for example. Further, plotting is built into our dataframes via `.plot` method. 
+
+It's convenient when you don't need strictly need a *relational database*, but you do need to work with *data* and it may not come in a nice formats.
+
+## Productionalizing Data Modeling
+
+Joel's Test: 12 Steps to Better Code
+
+Reproducability of local results vs production is becoming import for ML; virtual envs / Docker are good for keep the differences minimal.
+
+Monitoring for the production code is incredibly important for client facing models; changes in APIs or batch failures can break systems.
+
+General Tips:
+* Add elses to ifs
+* Add try/except + errors
+* Logging helps immensely with a complicated pipeline
+* Regression tests (use old test cases to validate new models!)
+* Comments + Up-to-date documentation
+* One button pushes
+
+The speaker was extra knowledgable! Tons of experience and

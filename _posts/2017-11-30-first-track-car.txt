@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "My New Track Car!"
+date:   2017-11-30 12:20:00 -0700
+categories: news cars track
+---
+
+So it's definitely going to need some work, but I've finally sunk the money into a track car!
+
+Buying the car was a bit of an adventure in and of itself, so let's begin with that.
+
+<!--more-->
+
+In early November I came across a listing for a 2001 Toyota MR2 Spyder for just $2200. Occasionally you see them for somewhere in that range and after some bad experiences with checking out cheap Miatas, the listing looked really appealing. The owner had taken spectacular photos and provided a *small* list of mostly aesthetic changes to the car. Nothing done appeared to affect the powertrain, which was another good sign. I figured it would be sold quickly, so I sent an email asking when he was available to show it.
+
+Fast forwarding to now -- the owner and I had been exchanging emails for about a month before we could pick a definite time and location to meet. He was in no rush to sell the car. This was a bit of a drag at times since I was trying to coordinate not only when to move money around, but also when to schedule a vehicle inspection. 
+
+Speaking of which, Google/Yelp led me to AutoDoc for the pre-purchase inspection mechanic. The fee was larger than I would have preferred since it's based on an assumed two hours worth of inspection and I was looking for half that duration. That said, he took detailed notes on the the car section by section and photographed everything of concern. With photos, the inspection resulted in a 29 page PDF. I would've missed a few of the things he picked up on and I'll definitely try to get a second set of eyes when I check out vehicles now.
+
+Getting back to the meeting -- I had to drive down to Irvine for it which meant getting up 'early' for a weekend and since I wasn't completely "sold" on the car yet I took my GTI to be safe. I met the seller at Starbucks and we talked over some general details of the vehicle's history as we figured out parking someplace the mechanic could work.  
+
+The car has had an engine swap, which I didn't previously know, but that was actually good knews rather than bad. The car is absurdly high mileage for a sports car (Miatas withstanding) so I was prepared to be replacing the engine in the next six months to a year if needed. While the engine might not need to go, it seems like he didn't swap the transmission with it so that will need to be serviced or replaced. Other details of its history included long road trips, some specific canyon runs, and a little bit of drifting but no real dedicated track use in his ownership. 
+
+
+----
+Stuff about needing to smog / register the car and hearing stories. Starting with birthday car purchases
+
+Stuff about FD / entrepenurship
+
+Stuff about carrying hella cash for a minute
+
+Getting back to LA -> Irvine -> Birthday Party 
+----
+
+Thanks for making it this far! I'm going to try to post an update on the car the last weekend of every month. Updates may also include info about my VW of course ... until I replace it. We'll worry about a second car search in a few months once I've poured some time and money into making this new project.
+
+In addition, I'm going to try to track all the costs that are going into the vehicle as individual line items. Ideally, the Google Sheet will populate a table on a dedicated page. Hopefully this cash fire will keep us all warm through the winter!

@@ -1,0 +1,27 @@
+bokeh
+
+Why?
+	1.Written in Python
+	2. Open source /free
+	3. Good documentation
+	4. JS callbacks / server communications
+	5. Extensible?
+
+Starting with a pandas dataframe
+[Uses BokehJS to render in notebook]
+
+Create a figure
+Circle method renders glyphs [namely, circles]; it takes data
+	Zoom features are nice 
+	Can save to png straight from the figure
+
+On mouse_over
+	p.add_tools(HoverTool) # method to add a tool
+	#
+
+glyph properties can be modified nearly
+	circ.glyph.size = 11 # or for color, etc. 
+
+Widgets give interactivity 
+
+Work space?
